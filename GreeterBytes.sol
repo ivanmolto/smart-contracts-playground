@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-contract Greeter {
+contract GreeterBytes {
     bytes32 public yourName;
 
     constructor() public {
